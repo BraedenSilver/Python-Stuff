@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec5139a7-7021-4fcc-a420-c91089c2b69f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearningPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Basics_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Basics_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Basics_f-Strings_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Function_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Function_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Function_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Mega_Millions_Simulator.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec5139a7-7021-4fcc-a420-c91089c2b69f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
