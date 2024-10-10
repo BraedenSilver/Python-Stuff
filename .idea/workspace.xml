@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec5139a7-7021-4fcc-a420-c91089c2b69f" name="Changes" comment="" />
+    <list default="true" id="ec5139a7-7021-4fcc-a420-c91089c2b69f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Birth_Calculator_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birth_Calculator_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +47,12 @@
     "Python.Basics_03.executor": "Run",
     "Python.Basics_FStrings_01.executor": "Run",
     "Python.Beginning.executor": "Run",
+    "Python.Birth_Calculator.executor": "Run",
+    "Python.Birth_Calculator_01.executor": "Run",
+    "Python.Birth_Calculator_02.executor": "Run",
     "Python.Function_03.executor": "Run",
+    "Python.Matrix.executor": "Run",
+    "Python.Matrix2.executor": "Run",
     "Python.Mega_Millions_Simulator.executor": "Run",
     "Python.Random-Garbage.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BraedenSilver\Documents\GitHub\Python-Stuff" />
       <recent name="C:\Users\BraedenSilver\Documents\GitHub\LearningPython\Day1" />
     </key>
   </component>
